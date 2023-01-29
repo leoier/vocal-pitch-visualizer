@@ -1,0 +1,11 @@
+venv/
+.vscode/
+*__pycache__*
+
+# running outputs
+output/
+pretrained_models/
+
+# media files
+*.mp3
+*.mp4

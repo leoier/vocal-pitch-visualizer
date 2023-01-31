@@ -17,6 +17,6 @@ Vocal Pitch Visualizer is a tool that separates the vocals from an audio and vis
 
 Run the app on CLI by
 ```bash
-python3 main.py audio_file [-s start] [-d duration]
+python3 main.py audio_file [-s start] [-d duration] [-st stems]
 ```
 where `audio_file` is the path to the file to be visualized. Optionally, you may specify the part of the audio to be processed by giving the start time and duration (in seconds). The output will be `output.mp4`.

@@ -2,7 +2,7 @@ import subprocess
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import numpy as np
-from frequency import PitchFrequency
+from src.frequency import PitchFrequency
 
 
 def draw_baseline():
